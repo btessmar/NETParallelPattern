@@ -1,4 +1,4 @@
 NETParallelPattern
 ==================
 
-Parallel Pattern with .NET 4.0 examples
+Parallel pattern examples for .NET 4.0.
